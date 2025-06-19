@@ -1,5 +1,5 @@
 // Update this page (the content is just a fallback if you fail to update the page)
-import customCursor from '../components/ui/CustomCursor';
+import customCursor from '../components/ui/customCursor';
 
 const Index = () => {
   return (
