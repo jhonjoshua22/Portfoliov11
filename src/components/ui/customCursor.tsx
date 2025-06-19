@@ -46,4 +46,4 @@ const CustomCursor = ({ mousePosition }: CustomCursorProps) => {
   );
 };
 
-export default CustomCursor;
+export default customCursor;
